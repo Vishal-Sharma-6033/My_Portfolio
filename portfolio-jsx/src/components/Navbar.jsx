@@ -34,7 +34,7 @@ const Navbar = () => {
       transition: { type: "spring", duration: 0.6, bounce: 0 },
       className: `fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? "bg-background/90 backdrop-blur-sm border-b border-border" : ""}`
     },
-    /* @__PURE__ */ React.createElement("div", { className: "section-container flex items-center justify-between h-16" }, /* @__PURE__ */ React.createElement("a", { href: "#", className: "text-lg font-bold tracking-tight text-foreground" }, /* @__PURE__ */ React.createElement("span", { className: "text-accent" }, "<"), "Dev", /* @__PURE__ */ React.createElement("span", { className: "text-accent" }, "/>")), /* @__PURE__ */ React.createElement("div", { className: "hidden md:flex items-center gap-8" }, navLinks.map((link) => /* @__PURE__ */ React.createElement(
+    /* @__PURE__ */ React.createElement("div", { className: "section-container flex items-center justify-between h-16" }, /* @__PURE__ */ React.createElement("a", { href: "#", className: "text-lg font-bold tracking-tight text-foreground" }, /* @__PURE__ */ React.createElement("span", { className: "text-accent" }, "<"), "Vishal Sharma", /* @__PURE__ */ React.createElement("span", { className: "text-accent" }, "/>")), /* @__PURE__ */ React.createElement("div", { className: "hidden md:flex items-center gap-8" }, navLinks.map((link) => /* @__PURE__ */ React.createElement(
       "a",
       {
         key: link.href,
