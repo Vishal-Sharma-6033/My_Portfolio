@@ -53,7 +53,7 @@ const Navbar = () => {
     ), /* @__PURE__ */ React.createElement(
       "a",
       {
-        href: "/resume.pdf",
+        href: "/vishal_resume.pdf",
         download: "Vishal-Sharma-Resume.pdf",
         className: "bg-accent text-accent-foreground px-4 py-2 rounded-lg text-sm font-medium hover:opacity-90 transition-opacity"
       },
@@ -94,7 +94,7 @@ const Navbar = () => {
       )), /* @__PURE__ */ React.createElement(
         "a",
         {
-          href: "/resume.pdf",
+          href: "/vishal_resume.pdf",
           download: "Vishal-Sharma-Resume.pdf",
           className: "bg-accent text-accent-foreground px-4 py-2.5 rounded-lg text-sm font-medium text-center mt-2"
         },
